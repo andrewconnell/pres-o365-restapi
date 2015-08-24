@@ -16,4 +16,4 @@ Andrew teaches these topics through his numerous videos and courses through [Cri
 - github: [github.com / andrewconnell](http://github.com/andrewconnell)
 - learn more about me on my blog: [www.andrewconnell.com / about](http://www.andrewconnell.com/About)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-59889067-1/pres-enterprise-ng-mstech/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-59889067-1/pres-o365-restapi/readme)](https://github.com/igrigorik/ga-beacon)
